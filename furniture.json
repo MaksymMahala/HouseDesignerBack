@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "color": "#D3D3D3",
+    "title": "Wooden Chair",
+    "price": 120,
+    "isFavorite": false,
+    "furniture3dTitle": "Sofa-green.dae",
+    "category": "Furniture"
+  },
+  {
+    "id": 2,
+    "color": "#D3D3D3",
+    "title": "Modern Sofa",
+    "price": 600,
+    "isFavorite": false,
+    "furniture3dTitle": "dyvan.dae",
+    "category": "Furniture"
+  },
+  {
+    "id": 3,
+    "color": "#D3D3D3",
+    "title": "Stool Table",
+    "price": 350,
+    "isFavorite": false,
+    "furniture3dTitle": "stooltable.dae",
+    "category": "Furniture"
+  },
+  {
+    "id": 4,
+    "color": "#D3D3D3",
+    "title": "Classic Armchair",
+    "price": 200,
+    "isFavorite": false,
+    "furniture3dTitle": "chair.dae",
+    "category": "Furniture"
+  },
+  {
+    "id": 5,
+    "color": "#D3D3D3",
+    "title": "beauty chair 'elegant'",
+    "price": 750,
+    "isFavorite": false,
+    "furniture3dTitle": "haircut-chair.dae",
+    "category": "Furniture"
+  },
+  {
+    "id": 6,
+    "color": "#D3D3D3",
+    "title": "Gaming Chair",
+    "price": 380,
+    "isFavorite": false,
+    "furniture3dTitle": "computer-chair.dae",
+    "category": "Furniture"
+  },
+  {
+    "id": 7,
+    "color": "#D3D3D3",
+    "title": "Steel Bookshelf",
+    "price": 400,
+    "isFavorite": false,
+    "furniture3dTitle": "bookshelf3D",
+    "category": "Furniture"
+  },
+  {
+    "id": 8,
+    "color": "#D3D3D3",
+    "title": "Purple Velvet Couch",
+    "price": 850,
+    "isFavorite": false,
+    "furniture3dTitle": "velvetCouch3D",
+    "category": "LivingRoom"
+  },
+  {
+    "id": 9,
+    "color": "#D3D3D3",
+    "title": "Antique Wooden Table",
+    "price": 500,
+    "isFavorite": false,
+    "furniture3dTitle": "antiqueTable3D",
+    "category": "BedRoom"
+  },
+  {
+    "id": 10,
+    "color": "#D3D3D3",
+    "title": "Green Bean Bag",
+    "price": 90,
+    "isFavorite": false,
+    "furniture3dTitle": "beanBag3D",
+    "category": "LivingRoom"
+  }
+]
